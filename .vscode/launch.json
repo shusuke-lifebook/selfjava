@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "selfjava/to.msn.wings.selfjava.chap01.Hello",
+      "projectName": "selfjava_60fb4e21"
+    },
+    {
+      "type": "java",
+      "name": "Const",
+      "request": "launch",
+      "mainClass": "selfjava/to.msn.wings.selfjava.chap02.Const",
+      "projectName": "selfjava_60fb4e21"
+    },
+    {
+      "type": "java",
       "name": "Current File",
       "request": "launch",
       "mainClass": "${file}"
