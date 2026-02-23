@@ -55,5 +55,15 @@
   // Javaプロジェクトの設定
   "java.project.sourcePaths": ["src"],
   "java.project.outputPath": "bin",
-  "java.project.referencedLibraries": ["lib/**/*.jar"]
+  "java.project.referencedLibraries": ["lib/**/*.jar"],
+
+  // MarkdownをGeminiのアシストを抑止
+  "[markdown]": {
+    "editor.inlineSuggest.enabled": false,
+    "editor.quickSuggestions": {
+      "other": false,
+      "comments": false,
+      "strings": false
+    }
+  }
 }
