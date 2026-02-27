@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Practice3",
+      "request": "launch",
+      "mainClass": "selfjava/to.msn.wings.selfjava.chap02.practice.Practice3",
+      "projectName": "selfjava_60fb4e21"
+    },
+    {
+      "type": "java",
+      "name": "Practice1",
+      "request": "launch",
+      "mainClass": "selfjava/to.msn.wings.selfjava.chap02.practice.Practice1",
+      "projectName": "selfjava_60fb4e21"
+    },
+    {
+      "type": "java",
+      "name": "ArrayJagged",
+      "request": "launch",
+      "mainClass": "selfjava/to.msn.wings.selfjava.chap02.ArrayJagged",
+      "projectName": "selfjava_60fb4e21"
+    },
+    {
+      "type": "java",
       "name": "Hello",
       "request": "launch",
       "mainClass": "selfjava/to.msn.wings.selfjava.chap01.Hello",
